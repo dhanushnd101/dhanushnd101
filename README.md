@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dhanushnd101
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning ML, Docker
-- 💞️ I’m looking to collaborate on Docker
+- 🌱 I’m currently learning Agentic AI
+- 💞️ I’m looking to collaborate on Docker and deploying applications on Cloud
 - 📫 How to reach me dhanushndinesh@gmail.com
 
 
